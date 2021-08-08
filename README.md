@@ -10,7 +10,8 @@
 | Corey Schafer   | [Youtube Link](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)        | Python Video Tutorials. An in-depth look at the Python programming language.Tips and tricks, walkthroughs, and best practices.        |
 | Jamal Bugti   | [Youtube Link](https://www.youtube.com/channel/UCQuqHvoiMex8GTlogJDg_4Q)       | Project based video learning. Building a python Ecommerce website online shop with Flask      |
 | Tech With Tim   | [Youtube Link](https://www.youtube.com/watch?v=mqhxxeeTbu0)        | This series will show you how to create websites with python using the micro framework flask.If you are less experienced with python and want to learn how to make websites flask is the right tool! Flask is great for beginners |
-| Add Author   | Source        | Description        |
+|  flask.palletsprojects.com   | [Documentation Link](https://flask.palletsprojects.com/en/2.0.x/)        | Flask’s documentation. Get started with Installation and then get an overview with the Quickstart. There is also a more detailed Tutorial that shows how to create a small but complete application with Flask
+
 
 
 <div align="center"><h1>Happy Learning :+1: </h1></div>
