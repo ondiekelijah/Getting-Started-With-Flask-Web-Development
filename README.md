@@ -1,4 +1,4 @@
-![Header Image](https://github.com/Dev-Elie/Getting-Started-With-Flask-Web-Development/blob/main/headerImage.png)
+![Header Image](https://github.com/Dev-Elie/Getting-Started-With-Flask-Web-Development/blob/main/header_image.png)
 
 <div align="center"><h1> :pushpin: Flask Learning Resources :zap: </h1></div>
 
